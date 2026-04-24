@@ -1,7 +1,7 @@
 # ¡Hola! Soy Zunraz 👋 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI5Y2JmZDY5YjY0YjA0YjY0YjA0YjY0YjA0YjY0YjA0YjY0JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjPQC1Q7UsC8E/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueXp6eXp6eXp6eXp6eXp6eXp6eXp6eXp6eXp6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 </p>
 
 ### 🚀 Sobre mí...
