@@ -40,5 +40,5 @@ Soy un apasionado del desarrollo de software enfocado en crear soluciones que no
 
 ---
 <p align="center">
-  Hecho con ❤️ y mucho ☕ por Zunraz
+  Hecho por Zunraz
 </p>
