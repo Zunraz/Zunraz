@@ -1,44 +1,52 @@
-# ¡Hola! Soy Zunraz 👋 
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueXp6eXp6eXp6eXp6eXp6eXp6eXp6eXp6eXp6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
-</p>
+# Zunraz
 
-### 🚀 Sobre mí...
-Soy un apasionado del desarrollo de software enfocado en crear soluciones que no solo funcionen, sino que aporten valor real. Me encanta desmenuzar problemas complejos y convertirlos en código limpio y eficiente.
+### Software developer · Systems-minded builder · Game creator
 
-- 🔭 **Proyectos actuales:** Estoy trabajando activamente en nuevos retos de desarrollo y optimización.
-- 🌱 **Aprendizaje continuo:** Actualmente profundizando en nuevas tecnologías y arquitecturas modernas.
-- 💬 **Hablemos de:** Desarrollo Web, optimización de rendimiento o cualquier reto técnico interesante.
-- ⚡ **Dato curioso:** ¡Siempre estoy buscando la manera más eficiente de resolver un problema!
+I build interactive products where interface, logic and progression work as one system. My current focus is **NovaVista 2004**, an incremental roguelite hidden inside a nostalgic Windows 98/XP-inspired desktop.
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paul_Rancel-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/paulrancel)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### 🛠️ Mi Stack Tecnológico
+</div>
 
-| Área | Tecnologías |
-| :--- | :--- |
-| **Lenguajes** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) |
-| **Herramientas** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
+## Featured project
 
----
+### NovaVista 2004
 
-### 📊 Mis Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zunraz&show_icons=true&theme=radical&v=1" alt="Estadísticas de Zunraz" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zunraz&layout=compact&theme=radical&v=1" alt="Lenguajes más usados" width="300" />
-</p>
+An incremental roguelite presented as a complete early-2000s operating system.
 
----
+- Desktop environment with draggable windows, taskbar, Start menu and simulated system apps
+- Persistent economy, procedural network raids, minigames, implants and prestige
+- Complete Spanish and English interface
+- Dependency-light browser architecture and a self-contained production build
+- Automated logic, integration, server and visual tests
 
-### 📫 ¿Cómo encontrarme?
-¡Me encantaría conectar y charlar sobre tecnología o posibles colaboraciones!
+The public repository is being prepared with a clean, security-reviewed history.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/paulrancel)](https://linkedin.com/in/paulrancel)
+## What I care about
 
----
-<p align="center">
-  Hecho por Zunraz
-</p>
+- Designing systems that create meaningful player and user decisions
+- Turning complex behavior into clear, responsive interfaces
+- Testing the rules behind interactive applications
+- Building products that feel cohesive rather than collections of disconnected features
+- Learning through ambitious projects and careful iteration
+
+## En español
+
+Desarrollo productos interactivos donde la interfaz, la lógica y la progresión forman un único sistema. Mi proyecto principal es **NovaVista 2004**, un roguelite incremental escondido dentro de un escritorio inspirado en Windows 98 y XP.
+
+Me interesan especialmente el diseño de sistemas, la experiencia de usuario, la arquitectura JavaScript y las pruebas que hacen fiables las aplicaciones interactivas.
+
+## GitHub activity
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Zunraz&show_icons=true&theme=transparent&hide_border=true" alt="Zunraz GitHub statistics">
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zunraz&layout=compact&theme=transparent&hide_border=true" alt="Most used languages">
+
+</div>
