@@ -16,7 +16,7 @@ I build interactive products where interface, logic and progression work as one 
 
 ## Featured project
 
-### NovaVista 2004
+### [NovaVista 2004](https://github.com/Zunraz/novavista-2004)
 
 An incremental roguelite presented as a complete early-2000s operating system.
 
@@ -26,7 +26,7 @@ An incremental roguelite presented as a complete early-2000s operating system.
 - Dependency-light browser architecture and a self-contained production build
 - Automated logic, integration, server and visual tests
 
-The public repository is being prepared with a clean, security-reviewed history.
+[Explore the public repository](https://github.com/Zunraz/novavista-2004) — published with a clean, security-reviewed history.
 
 ## What I care about
 
